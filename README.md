@@ -38,7 +38,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 3. ****Deposit:****  Buyer sends funds to the contract using the deposit function.
 4. ****Approve:**** The buyer needs to approve the release of funds to the seller if they are satisfied with the transaction equally. Then the Escrow system (middle-man), will check if both are on thesame terms.
 5. ****_releaseFund:**** The Escrow contract (internal function), automatically releases the funds, once both parties "buyer" and "seller" are on sam approval terms (✅). 
-6. ****RefundBuyer:****
+6. ****RefundBuyer:****  Depending on the transaction satisfaction, funds can be refunded to the buyer if it taking too long for the funds to be released by the seller(that is if the seller is yet to approve transaction) . Only the seller can release the funds back to the buyer , but you must make the function "****payable****" type if you want the  refundBuyer transaction to go through.
 
 ## Why This Matters (Voting Smart Contract)
 
