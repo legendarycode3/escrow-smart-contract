@@ -16,6 +16,8 @@
 
 ## 📋Contract Details
 
+## Usage Guide (How it works)
+
 ## Why This Matters (Voting Smart Contract)
 
 ## Foundry
