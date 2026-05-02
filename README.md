@@ -9,6 +9,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 *  The escrow contract is intended to protect buyers and sellers of any physical or digital good or service from cheating each other.
 
 ## 📌 Features
+* ****Escrow Functionality:**** 
 
 ## 🧠 Key Concepts Applied
 
