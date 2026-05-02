@@ -14,6 +14,7 @@
 
 ## Usage
 
+## 📋Contract Details
 
 ## Foundry
 
