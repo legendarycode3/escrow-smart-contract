@@ -33,7 +33,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 ## 📋Contract Details
 
 ## Usage Guide (How it works)
-1. ****Compile:**** 
+1. ****Compile:**** Compile the contract.
 
 ## Why This Matters (Voting Smart Contract)
 
