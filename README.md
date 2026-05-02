@@ -1,7 +1,7 @@
 # Escrow Smart Contract
+<img width="500" height="300" alt="escrow-trustless-lock-image" src="https://github.com/user-attachments/assets/4dd634a0-20ac-4679-b74d-247e5ba2320a" />
 
 ## Project Overview
-<img width="500" height="300" alt="escrow-trustless-lock-image" src="https://github.com/user-attachments/assets/4dd634a0-20ac-4679-b74d-247e5ba2320a" />
 
 
 ## 📌 Features
