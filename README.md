@@ -36,6 +36,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:****  Deploy the Contract. Set the addresses for the seller, before deployment.
 3. ****Deposit:****  Buyer sends funds to the contract.
+4. ****Approve:****
 
 ## Why This Matters (Voting Smart Contract)
 
