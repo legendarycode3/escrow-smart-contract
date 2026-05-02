@@ -1,4 +1,4 @@
-## Escrow Smart Contract
+# Escrow Smart Contract
 
 ## Foundry
 
