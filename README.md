@@ -15,7 +15,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 * ****Deposit Funds:****  The buyer deposits funds into the escrow. This transaction needs to be initiated by the buyer.
 * ****Authorized Depositor:**** On the smart contract, only an authorized address can Deposit , which is to say only (authorized Buyer address) , not a Seller Address.
 * ****Approve Transaction:**** The buyer  can approve the release of funds to the seller if they are satisfied with the transaction.
-* ****Refund Transaction:****
+* ****Refund Transaction:****  The "seller" can also refund the funds back to the buyer in case of a dispute that is resolved in the buyer's favor.
 * ****Escrow Functionality:**** The contract holds the funds sent by the "buyer" in escrow system(as the middle-man in a programmable format), until the seller approves the transaction, the buyer sees it and approve the sellers request and they both agree on one equal final words. Then after that is the point that the funds are released to the buyer through the Escrow System (internal by the contract itself).
 
 ## 🧠 Key Concepts Applied
