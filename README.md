@@ -1,9 +1,9 @@
 # Escrow Smart Contract
-Design Patterns for Blockchain
+Design Patterns for the Escrow system in Blockchain
 <img width="500" height="300" alt="escrow-trustless-lock-image" src="https://github.com/user-attachments/assets/4dd634a0-20ac-4679-b74d-247e5ba2320a" />
 
 ## Project Overview
-
+This is a simple implementation of a dual-deposit escrow Ethereum smart contract that facilitates a transaction
 
 ## 📌 Features
 
