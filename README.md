@@ -35,8 +35,10 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 ## Usage Guide (How it works)
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:****  Deploy the Contract. Set the addresses for the seller, before deployment.
-3. ****Deposit:****  Buyer sends funds to the contract.
-4. ****Approve:****
+3. ****Deposit:****  Buyer sends funds to the contract using the deposit function.
+4. ****Approve:**** The buyer needs to approve the release of funds to the seller if they are satisfied with the transaction equally. Then the Escrow system (middle-man), will check if both are on thesame terms.
+5. ****_releaseFund:****
+6. ****RefundBuyer:****
 
 ## Why This Matters (Voting Smart Contract)
 
