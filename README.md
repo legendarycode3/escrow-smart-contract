@@ -16,6 +16,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 ## 🧠 Key Concepts Applied
 
 ## 📂 Project Structure (Files)
+* ****`Escrow.sol`:****
 
 ## Technology Stack (Technologies Used)
 
