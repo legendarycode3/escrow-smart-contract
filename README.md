@@ -35,7 +35,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 ## 📋Contract Details
 ### Functions:
 * ****`deposit()`:**** A function, where the buyer deposit funds, to the smart contract  directly.
-* ****``approve()`:****
+* ****``approve()`:**** A function , that checks If both parties "buyer" & "Seller" Approves (after agreeing on same terms).
 * ****`_releaseFund()`:****
 ### Variables:
 
