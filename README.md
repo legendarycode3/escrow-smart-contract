@@ -12,8 +12,8 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 ## 📌 Features
 * ****Contructor(_seller):**** The seller would inoput he or her address first , which runs once immediately contract is deployed.
 * ****Access Control:****  Access control for both the "Buyer" and "Seller" address are implemented, on the deposit() and refundBuyer() functions.
+* ****Deposit Funds:****  The buyer deposits funds into the escrow. This transaction needs to be initiated by the buyer.
 * ****Authorized Depositor:**** On the smart contract, only an authorized address can Deposit , which is to say only (authorized Buyer address) , not a Seller Address.
-* ****Deposit Funds:**** 
 * ****Escrow Functionality:**** The contract holds the funds sent by the "buyer" in escrow system(as the middle-man in a programmable format), until the seller approves the transaction, the buyer sees it and approve the sellers request and they both agree on one equal final words. Then after that is the point that the funds are released to the buyer through the Escrow System (internal by the contract itself).
 
 ## 🧠 Key Concepts Applied
