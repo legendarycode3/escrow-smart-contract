@@ -16,7 +16,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 ## 🧠 Key Concepts Applied
 
 ## 📂 Project Structure (Files)
-* ****`Escrow.sol`:****
+* ****`Escrow.sol`:**** Core contract implementing deposit , approve , _releaseFund and refundBuyer functions.
 * ****`Escrow.t.sol`:****
 
 ## Technology Stack (Technologies Used)
