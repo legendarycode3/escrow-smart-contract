@@ -21,7 +21,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 * ****Escrow Functionality:**** The contract holds the funds sent by the "buyer" in escrow system(as the middle-man in a programmable format), until the seller approves the transaction, the buyer sees it and approve the sellers request and they both agree on one equal final words. Then after that is the point that the funds are released to the buyer through the Escrow System (internal by the contract itself).
 
 ## 🧠 Key Concepts Applied
-* ****Data types:**** 
+* ****Data types:****  Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently(E.g address of both buyer and seller).
 
 ## 📂 Project Structure (Files)
 * ****`Escrow.sol`:**** Core contract implementing deposit , approve , _releaseFund and refundBuyer functions.
