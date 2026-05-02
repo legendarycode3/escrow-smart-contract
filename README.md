@@ -34,8 +34,9 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 
 ## 📋Contract Details
 ### Functions:
-* ****`deposit`:****
-* ****``approve`:****
+* ****`deposit()`:****
+* ****``approve()`:****
+* ****`_releaseFund()`:****
 ### Variables:
 
 ## Usage Guide (How it works)
