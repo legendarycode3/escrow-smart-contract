@@ -5,7 +5,7 @@ Design Patterns for the Escrow system in Blockchain
 ## Project Overview
 This is a simple implementation of a escrow Ethereum smart contract that facilitates the following:
 * A transaction between a buyer and a seller.
-* The contract holds the funds in escrow until the buyer approves the transaction, at which
+* The contract holds the funds in escrow (as a middle-man, programmatically) until the buyer approves the transaction, at which
 
 ## 📌 Features
 
