@@ -35,7 +35,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 * ****Solidity**** - The programming language for writing the Smart contracts.
 * ****RemixIDE**** - Used it to write, and deploy the smart contract directly in the browser first. A fastest way to get started, acting as a "no-setup" workshop for smart contract development.
 * ****Foundry(forge, cast, anvil)**** - Development framework and testing suite.
-* ****Visual Studio Code**** -
+* ****Visual Studio Code**** - Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
 
 ## Getting Started
 
