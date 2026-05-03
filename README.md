@@ -25,7 +25,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 * ****Custom Error:**** Defined and used custom error as well, for gas optimation.
 * ****Modifier:**** For Access-Control for both buyer and seller.
 * ****Enum:**** Defined the lifecycle stages of the escrow contract (OPEN, FUNDED, COMPLETED, REFUNDED).
-* ****Visibility specifiers:**** Used Public and Internal visibility specifier. The "internal specifier" function is controlled by the escrow(middleman programmatically) itself.
+* ****Visibility specifiers:**** Used Public and Internal visibility specifier. The "internal specifier" function is controlled by the escrow(middleman programmatically) itself. While the "public visibility specifier" function was used publicly for everyone to interact with.
 
 ## 📂 Project Structure (Files)
 * ****`Escrow.sol`:**** Core contract implementing deposit , approve , _releaseFund and refundBuyer functions.
@@ -41,7 +41,8 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 ### Functions:
 * ****`deposit()`:**** A function, where the buyer deposit funds, to the smart contract  directly.
 * ****``approve()`:**** A function , that checks If both parties "buyer" & "Seller" Approves (after agreeing on same terms).
-* ****`_releaseFund()`:**** A function, that Automatically releases funds (the Escrow system), if both parties "buyer" & "Seller" Approves. Only done programmatically by the escrow system itself.
+* ****`_releaseFund()`:**** A function, that Automatically releases funds (the Escrow system), if both parties "buyer" & "Seller" Approves. Only done programmatically by the escrow system itself. 
+
 ### Variables:
 
 ## Usage Guide (How it works)
