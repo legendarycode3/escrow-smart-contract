@@ -74,6 +74,9 @@ on Remix IDE and learn along side how the code works while trying to build yours
       forge test
      ```
 * Runing specific test:
+    ```shell
+       forge test --mt testFunctionName
+    ```
 
   
 
