@@ -44,7 +44,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 * `Remix IDE` or `Foundry Development Kit`.
 
 ### Recommendation (For Beginners)
-****NOTE (Use Remix IDE, for quick prototyping):**** 
+****NOTE (Use Remix IDE, for quick prototyping):****  You can literally just copy the main contract source code and paste it.
 
 ## Usage
 
