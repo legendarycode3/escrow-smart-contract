@@ -32,6 +32,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 * ****`Escrow.t.sol`:****  Unit Test (suite) containing tests to validate contract functionalities for the escrow project.
 
 ## Technology Stack (Technologies Used)
+* ****Solidity**** - 
 
 ## Getting Started
 
