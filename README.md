@@ -33,6 +33,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 
 ## Technology Stack (Technologies Used)
 * ****Solidity**** - The programming language for writing the Smart contracts.
+* ****RemixIDE**** 
 
 ## Getting Started
 
