@@ -58,6 +58,8 @@ on Remix IDE and learn along side how the code works while trying to build yours
   ```shell
    git clone https://github.com/legendarycode3/escrow-smart-contract
   ```
+
+2. Navigate to the directory you created and cloned the file to:
   
 
 ## 📋Contract Details
