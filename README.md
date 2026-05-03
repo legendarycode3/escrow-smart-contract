@@ -87,7 +87,7 @@ on Remix IDE and learn along side how the code works while trying to build yours
 * ****`_releaseFund()`:**** A function, that Automatically releases funds (the Escrow system), if both parties "buyer" & "Seller" Approves. Only done programmatically by the escrow system itself. 
 
 ### Variables:
-* ****`i_buyer`:****
+* ****`i_buyer`:**** Immutable variable storing the buyer  address.
 * ****`i_seller`:****
 
 ## Usage Guide (How it works)
