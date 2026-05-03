@@ -102,7 +102,7 @@ on Remix IDE and learn along side how the code works while trying to build yours
 ## Why This Matters (Escrow Smart Contract)
 Escrow smart contracts are critical in the Web3 blockchain ecosystem because:
 1. They eliminate the need for trusted third-party intermediaries (like banks or escrow agents) by replacing them with immutable, self-executing code.
-2. They provide a "trustless" mechanism where funds or assets are locked and only released when specific conditions
+2. They provide a "trustless" mechanism where funds or assets are locked and only released when specific conditions are met, protecting both parties in decentralized P2P transactions.
 
 ## Foundry
 
