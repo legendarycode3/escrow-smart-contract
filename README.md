@@ -38,6 +38,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 * ****Visual Studio Code**** - Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
 
 ## Getting Started
+### Prerequisites
 
 ## Usage
 
