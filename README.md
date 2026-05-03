@@ -9,7 +9,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 * A transaction between a buyer and a seller.
 * The contract holds the funds in escrow (as a middle-man, programmatically) until the buyer approves the transaction, at which point the funds are released to the seller.
 *  The escrow contract is intended to protect buyers and sellers of any physical or digital good or service from cheating each other.
-*  The escrow contract , can only releaseFunds, when both "Buyer" and the "Seller" , agrees on one agreement
+*  The escrow contract , can only releaseFunds, when both "Buyer" and the "Seller" , agrees on one agreement..
 
 ## 📌 Features
 * ****Contructor(_seller):**** The seller would inoput he or her address first , which runs once immediately contract is deployed.
