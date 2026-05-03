@@ -89,6 +89,7 @@ on Remix IDE and learn along side how the code works while trying to build yours
 ### Variables:
 * ****`i_buyer`:**** Immutable variable storing the buyer  address.
 * ****`i_seller`:**** Immutable variable storing the seller  address.
+* ****`s_amountDeposited`:****
 
 ## Usage Guide (How it works)
 1. ****Compile:**** Compile the contract.
