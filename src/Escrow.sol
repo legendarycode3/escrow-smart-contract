@@ -14,12 +14,12 @@ pragma solidity ^0.8.19;
 contract Escrow {
        
         /** TYPE DECLARATION */
-    /// @notice The States that the escrow contract can be in: 
+    /// @notice Defines the lifecycle stages of the escrow contract . The States that the escrow contract can be in: 
     enum EscrowState {
-        OPEN,     // 0
-        FUNDED,    // 1
-        COMPLETED,  // 2
-        REFUNDED    // 3
+        OPEN,     // 0 - Initial state, waiting
+        FUNDED,    // 1 -  Funds are in escrow
+        COMPLETED,  // 2 -  Funds released to beneficiary
+        REFUNDED    // 3 -  Funds returned to depositor
     }
 
 
@@ -153,7 +153,7 @@ contract Escrow {
 
 
     /// @notice function , if not released for long (that is if seller those not approve so the escrow check for both party ), then refund the buyer 
-    function refundBuyer() public  onlySeller {
+    function refundBuyer() public payable onlySeller {
         // CHECKS
         require(s_escrowState == EscrowState.FUNDED, "Not funded");
 
