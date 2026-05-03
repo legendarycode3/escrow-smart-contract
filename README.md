@@ -23,7 +23,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 ## 🧠 Key Concepts Applied
 * ****Data types:****  Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently(E.g address of both buyer and seller).
 * ****Custom Error:**** Defined and used custom error as well, for gas optimation.
-* ****Modifier:****
+* ****Modifier:**** For Access-Control for both buyer and seller. 
 
 ## 📂 Project Structure (Files)
 * ****`Escrow.sol`:**** Core contract implementing deposit , approve , _releaseFund and refundBuyer functions.
