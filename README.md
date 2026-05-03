@@ -39,6 +39,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 
 ## Getting Started
 ### Prerequisites
+* Solidity Compiler, Version ^0.8.18 or higher.
 
 ## Usage
 
