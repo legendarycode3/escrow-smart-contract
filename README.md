@@ -43,6 +43,8 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 * Solidity Compiler, Version ^0.8.18 or higher.
 * `Remix IDE` or `Foundry Development Kit`.
 
+### Recommendation (For Beginners)
+
 ## Usage
 
 ## 📋Contract Details
