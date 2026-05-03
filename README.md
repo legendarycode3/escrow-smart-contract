@@ -63,7 +63,8 @@ on Remix IDE and learn along side how the code works while trying to build yours
    ```shell
      cd escrow-smart-contract
    ```
-4. ana
+4. Compile the smart contract:
+5. x
   
 
 ## 📋Contract Details
