@@ -24,7 +24,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 * ****Data types:****  Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently(E.g address of both buyer and seller).
 * ****Custom Error:**** Defined and used custom error as well, for gas optimation.
 * ****Modifier:**** For Access-Control for both buyer and seller.
-* ****Enum:****
+* ****Enum:**** Defines the lifecycle stages of the escrow contract (OPEN, FUNDED, COMPLETED, REFUNDED).
 
 ## 📂 Project Structure (Files)
 * ****`Escrow.sol`:**** Core contract implementing deposit , approve , _releaseFund and refundBuyer functions.
