@@ -68,7 +68,7 @@ on Remix IDE and learn along side how the code works while trying to build yours
      forge build
    ```
 
-### Testing the contract (Using Foundry Development Kit ):
+### Testing the Test contract file `Escrow.t.sol` (Using Foundry Development Kit ):
 
   
 
