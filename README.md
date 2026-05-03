@@ -88,6 +88,7 @@ on Remix IDE and learn along side how the code works while trying to build yours
 
 ### Variables:
 * ****`i_buyer`:****
+* ****`i_seller`:****
 
 ## Usage Guide (How it works)
 1. ****Compile:**** Compile the contract.
