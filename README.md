@@ -100,7 +100,8 @@ on Remix IDE and learn along side how the code works while trying to build yours
 6. ****RefundBuyer:****  Depending on the transaction satisfaction, funds can be refunded to the buyer if it taking too long for the funds to be released by the seller(that is if the seller is yet to approve transaction) . Only the seller can release the funds back to the buyer , but you must make the function "****payable****" type if you want the  refundBuyer transaction to go through.
 
 ## Why This Matters (Escrow Smart Contract)
-Escrow smart contracts are critical in the Web3 blockchain ecosystem because they:
+Escrow smart contracts are critical in the Web3 blockchain ecosystem because:
+1. They eliminate the need for trusted third-party intermediaries (like banks or escrow agents) by replacing them with immutable, self-executing code.
 
 ## Foundry
 
