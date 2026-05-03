@@ -70,6 +70,10 @@ on Remix IDE and learn along side how the code works while trying to build yours
 
 ### Testing the Test contract file `Escrow.t.sol` (Using Foundry Development Kit ):
 * Runing all tests:
+     ```shell
+      forge test
+     ```
+* s
 
   
 
