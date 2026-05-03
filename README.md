@@ -68,6 +68,7 @@ on Remix IDE and learn along side how the code works while trying to build yours
      forge build
    ```
 
+### Testing the contract (Using Foundry Development Kit ):
 
   
 
