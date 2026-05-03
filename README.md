@@ -63,8 +63,12 @@ on Remix IDE and learn along side how the code works while trying to build yours
    ```shell
      cd escrow-smart-contract
    ```
-4. Compile the smart contract:
-5. x
+3. Compile the smart contract:
+   ```shell
+     forge build
+   ```
+
+
   
 
 ## 📋Contract Details
