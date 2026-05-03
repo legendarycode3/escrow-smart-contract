@@ -48,6 +48,7 @@ This is a simple implementation of a escrow Ethereum smart contract that facilit
 on Remix IDE and learn along side how the code works while trying to build yours as you keep building.
 
 ## Usage
+### Building the Project (Using Remix IDE):
 
 ## 📋Contract Details
 ### Functions:
