@@ -49,6 +49,7 @@ on Remix IDE and learn along side how the code works while trying to build yours
 
 ## Usage
 ### Building the Project (Using Remix IDE):
+1. Copy the core smart contract file code `Escrow.sol` to Remix IDE (a browser based IDE, for quick prototyping).
 
 ## 📋Contract Details
 ### Functions:
