@@ -55,6 +55,10 @@ on Remix IDE and learn along side how the code works while trying to build yours
 
 ### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit:
 1. Clone the repository:
+  ```shell
+   git clone https://github.com/legendarycode3/escrow-smart-contract
+  ```
+  
 
 ## 📋Contract Details
 ### Functions:
