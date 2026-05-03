@@ -53,6 +53,8 @@ on Remix IDE and learn along side how the code works while trying to build yours
 2. Create a new file for the project on your Remix IDE and paste , to learn and build along faster.
 3. And then Compile the smart contract file you have created on Remix IDE.
 
+### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit:
+
 ## 📋Contract Details
 ### Functions:
 * ****`deposit()`:**** A function, where the buyer deposit funds, to the smart contract  directly.
