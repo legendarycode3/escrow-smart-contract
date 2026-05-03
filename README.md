@@ -60,6 +60,10 @@ on Remix IDE and learn along side how the code works while trying to build yours
   ```
 
 2. Navigate to the directory you created and cloned the file to:
+   ```shell
+     cd escrow-smart-contract
+   ```
+4. ana
   
 
 ## 📋Contract Details
