@@ -73,7 +73,7 @@ on Remix IDE and learn along side how the code works while trying to build yours
      ```shell
       forge test
      ```
-* s
+* Runing specific test:
 
   
 
