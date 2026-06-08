@@ -109,7 +109,8 @@ Escrow smart contracts are critical in the Web3 blockchain ecosystem because the
 5. Automated enforcement.
 6. Transparent transactions.
 7. Reduced counterparty risk.
-8. Programmable business logic
+8. Programmable business logic.
+9. Decentralized dispute handling
 
 ## Common Key UseCases of Vending Machine Smart Contracts
 * ****Peer-to-Peer (P2P) Cryptocurrency Trading:**** A smart contract holds cryptocurrency while the buyer completes payment through a bank transfer, mobile money, or another off-chain payment method.
