@@ -109,7 +109,7 @@ Escrow smart contracts are critical in the Web3 blockchain ecosystem because:
 * ****Peer-to-Peer (P2P) Cryptocurrency Trading:**** A smart contract holds cryptocurrency while the buyer completes payment through a bank transfer, mobile money, or another off-chain payment method.
 * ****Freelance and Gig Economy Platforms:**** Clients deposit funds into an escrow contract before work begins. Payment is released once the work is delivered and approved.
 * ****Real Estate Transactions:**** Escrow can hold deposits, down payments, or purchase funds during property transactions until all contractual obligations are satisfied.
-* ****NFT Marketplaces:****
+* ****NFT Marketplaces:**** Escrow contracts temporarily hold NFTs or 
  
 ## Security Consideration
 * ****Centralized Refund Authority:**** Only the seller can call `refundBuyer()`.
