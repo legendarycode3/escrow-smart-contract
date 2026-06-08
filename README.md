@@ -115,6 +115,7 @@ Escrow smart contracts are critical in the Web3 blockchain ecosystem because:
 * ****Token Presales and ICOs:**** Escrow contracts can hold investor funds during Initial Coin Offerings (ICOs) or token presales. Funds are released only if fundraising goals are achieved.
 * ****Decentralized Crowdfunding:**** Blockchain crowdfunding platforms use escrow contracts to ensure project creators only access funds after meeting predefined milestones.
 * ****Digital Asset Marketplace Transactions:**** Escrow contracts secure the sale of digital assets. Ensures payment security. Protects ownership transfer process.
+* ****Web3 Gaming Asset Trading:****
  
 ## Security Consideration
 * ****Centralized Refund Authority:**** Only the seller can call `refundBuyer()`.
