@@ -131,6 +131,7 @@ Escrow smart contracts are critical in the Web3 blockchain ecosystem because the
 * ****Protocol Development Grants:**** Blockchain foundations and DAOs often fund developers building ecosystem tools. Instead of paying the entire grant upfront, funds are held in escrow and released based on milestones.
 * ****Staking Reward Distribution:**** Escrow contracts can hold staking rewards until a lockup period expires.
 * ****Team and Founder Token Vesting:**** One of the most important Web3 use cases. Project founders often receive token allocations that should not become immediately accessible.
+* ****Investor Token Lockups:****
  
 
 
