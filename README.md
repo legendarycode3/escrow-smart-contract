@@ -112,7 +112,7 @@ Escrow smart contracts are critical in the Web3 blockchain ecosystem because:
 * ****NFT Marketplaces:**** Escrow contracts temporarily hold NFTs or  payments during transactions. It prevents fraudulent transfers,ensures atomic transactions.
 * ****DAO Treasury Management:**** Decentralized organizations lock treasury funds until governance proposals are approved. It increases accountability and Transparent fund management.
 * *****Token Fundraising and Launchpads:**** Investor funds remain locked until fundraising targets are reached. It helps protects investors and prevents premature fund withdrawal.
-* ****Token Presales and ICOs:**** Escrow contracts can hold investor
+* ****Token Presales and ICOs:**** Escrow contracts can hold investor funds during Initial Coin Offerings (ICOs)
  
 ## Security Consideration
 * ****Centralized Refund Authority:**** Only the seller can call `refundBuyer()`.
