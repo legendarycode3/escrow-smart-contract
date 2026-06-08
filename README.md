@@ -101,9 +101,10 @@ on Remix IDE and learn along side how the code works while trying to build yours
 6. ****RefundBuyer:****  Depending on the transaction satisfaction, funds can be refunded to the buyer if it taking too long for the funds to be released by the seller(that is if the seller is yet to approve transaction) . Only the seller can release the funds back to the buyer , but you must make the function "****payable****" type if you want the  refundBuyer transaction to go through.
 
 ## Why This Matters (Escrow Smart Contract)
-Escrow smart contracts are critical in the Web3 blockchain ecosystem because:
+Escrow smart contracts are critical in the Web3 blockchain ecosystem because they provide:
 1. They eliminate the need for trusted third-party intermediaries (like banks or escrow agents) by replacing them with immutable, self-executing code.
 2. They provide a "trustless" mechanism where funds or assets are locked and only released when specific conditions are met, protecting both parties in decentralized P2P transactions.
+3. Trustless settlement.
 
 ## Common Key UseCases of Vending Machine Smart Contracts
 * ****Peer-to-Peer (P2P) Cryptocurrency Trading:**** A smart contract holds cryptocurrency while the buyer completes payment through a bank transfer, mobile money, or another off-chain payment method.
