@@ -127,7 +127,7 @@ Escrow smart contracts are critical in the Web3 blockchain ecosystem because the
 * ****Cross-Chain Asset Swaps:**** Escrow contracts facilitate exchanges between assets on different blockchains. Trustless swaps, reduced counterparty risk, cross-chain interoperability.
 * ****Security Audit Bounties:**** Protocols can lock bounty rewards in escrow before auditors begin work. It helps Guarantees auditor payment and encourages quality work.
 * ****Decentralized Arbitration Systems:**** Advanced escrow systems integrate arbitrators or decentralized juries to resolve disputes. It enables Fair dispute resolution, trustless enforcement, reduced legal costs.
-* ****Smart Contract Audit Escrow:**** Projects frequently hire external security auditors before deploying smart contracts. An escrow contract can hold the audit fee and release it
+* ****Smart Contract Audit Escrow:**** Projects frequently hire external security auditors before deploying smart contracts. An escrow contract can hold the audit fee and release it only when the audit report is delivered and accepted.
  
 
 
