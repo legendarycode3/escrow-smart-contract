@@ -1,8 +1,9 @@
 # Escrow Smart Contract
 A secure and transparent escrow smart contract built with Solidity and Foundry, designed to facilitate safe transactions between buyers and sellers.
 
-Design Patterns for the Escrow system in Blockchain
 <img width="500" height="300" alt="escrow-trustless-lock-image" src="https://github.com/user-attachments/assets/4dd634a0-20ac-4679-b74d-247e5ba2320a" />
+
+Design Patterns for the Escrow system in Blockchain
 
 ## Project Overview
 This is a simple implementation of a escrow Ethereum smart contract that facilitates the following:
@@ -104,6 +105,9 @@ Escrow smart contracts are critical in the Web3 blockchain ecosystem because:
 1. They eliminate the need for trusted third-party intermediaries (like banks or escrow agents) by replacing them with immutable, self-executing code.
 2. They provide a "trustless" mechanism where funds or assets are locked and only released when specific conditions are met, protecting both parties in decentralized P2P transactions.
 
+
+## Security Consideration
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -145,4 +149,4 @@ Built with ❤️ by [@legendarycode3](https://github.com/legendarycode3/)  </br
 Part of my `60 Days of Solidity Challenge`
 
 ## Appreciation
-If you find this project helpful, please consider linking back to this repository. I appreciate your support.
+If you find this project helpful, please consider linking back to this repository. I `appreciate` your support.
