@@ -116,7 +116,7 @@ Escrow smart contracts are critical in the Web3 blockchain ecosystem because:
 * ****Decentralized Crowdfunding:**** Blockchain crowdfunding platforms use escrow contracts to ensure project creators only access funds after meeting predefined milestones.
 * ****Digital Asset Marketplace Transactions:**** Escrow contracts secure the sale of digital assets. Ensures payment security. Protects ownership transfer process.
 * ****Web3 Gaming Asset Trading:**** Blockchain games contain valuable in-game assets represented by NFTs or tokens. Escrow contracts enable secure asset trading between players. It helps on Fraud prevention, Safe player-to-player trading, automated ownership transfer.
-* ****Cross-Chain Asset Swaps:**** Escrow contracts facilitate exchanges between assets on different blockchains. Trustless swaps, reduced counterparty risk.
+* ****Cross-Chain Asset Swaps:**** Escrow contracts facilitate exchanges between assets on different blockchains. Trustless swaps, reduced counterparty risk, cross-chain interoperability.
 
 
 
