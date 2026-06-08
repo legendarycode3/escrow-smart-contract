@@ -106,7 +106,8 @@ Escrow smart contracts are critical in the Web3 blockchain ecosystem because the
 2. They provide a "trustless" mechanism where funds or assets are locked and only released when specific conditions are met, protecting both parties in decentralized P2P transactions.
 3. Trustless settlement.
 4. Fraud prevention.
-5. Automated enforcement
+5. Automated enforcement.
+6. Transparent transactions.
 
 ## Common Key UseCases of Vending Machine Smart Contracts
 * ****Peer-to-Peer (P2P) Cryptocurrency Trading:**** A smart contract holds cryptocurrency while the buyer completes payment through a bank transfer, mobile money, or another off-chain payment method.
