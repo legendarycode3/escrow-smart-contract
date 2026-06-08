@@ -107,7 +107,7 @@ Escrow smart contracts are critical in the Web3 blockchain ecosystem because:
 
 
 ## Security Consideration
-* ****Centralized Refund Authority:****
+* ****Centralized Refund Authority:**** Only the seller can call refundBuyer()
 
 
 ## Foundry
